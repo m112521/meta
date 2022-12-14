@@ -1,5 +1,9 @@
 # meta
 
+
+Some theory:
+[Docs](https://docs.google.com/document/d/1rUISsRDoXq0jfs-jZFZWdBOQLxf3znhviiC6kxXwnIc/edit?usp=sharing)
+
 Test rig:
 
 ![Frame 4 (1)](https://user-images.githubusercontent.com/85460283/207388949-8e002d89-bed2-4a7c-b9d8-6236fd0f1761.png)
