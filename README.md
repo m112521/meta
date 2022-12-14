@@ -15,6 +15,15 @@ Meta cap vs solid cap:
 
 ![measuremes](https://user-images.githubusercontent.com/85460283/207561674-93e0b039-9f63-4d4f-9167-0b0386781d56.jpg)
 
+Slicer settings:
+
+- PETG (230°C, 90°C),
+- nozzle: 0.6 mm,
+- layer height: 0.3 mm,
+- perimeters: x4,
+- bottom/top #layers: x4,
+- infill: 50% (gyroid).
+
 
 Test rig:
 
