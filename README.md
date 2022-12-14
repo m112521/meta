@@ -11,6 +11,11 @@ TBD:
 - [ ] Legged tube 
 - [ ] Different rig
 
+Meta cap vs solid cap:
+
+![measuremes](https://user-images.githubusercontent.com/85460283/207561674-93e0b039-9f63-4d4f-9167-0b0386781d56.jpg)
+
+
 Test rig:
 
 ![Frame 4 (1)](https://user-images.githubusercontent.com/85460283/207388949-8e002d89-bed2-4a7c-b9d8-6236fd0f1761.png)
