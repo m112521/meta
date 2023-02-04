@@ -12,6 +12,19 @@ TBD:
 - [ ] Different rig
 
 
+### UPD v2:
+
+![Group 79](https://user-images.githubusercontent.com/85460283/216776740-ec5c1bd3-c46b-40f3-83f1-2b3f8a2daad4.png)
+
+
+![v2_ft](https://user-images.githubusercontent.com/85460283/216776414-76177936-4db9-4637-91b1-731a7a07cf64.png)
+
+No speech
+![v2_speechless](https://user-images.githubusercontent.com/85460283/216776445-6f7fc090-ea23-414d-8a15-d03a35693923.png)
+
+With speech
+![v2_speechfull](https://user-images.githubusercontent.com/85460283/216776474-3b0b26d2-1806-4e15-b7b3-3ecd340aa9fe.jpg)
+
 
 
 ### Test rig:
