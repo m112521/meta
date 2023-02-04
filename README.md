@@ -14,6 +14,8 @@ TBD:
 
 ### UPD v2:
 
+[Colab v2](https://colab.research.google.com/drive/1ATlZ77k87MDX1ufhcfTAt5N_8L18y9Bb?usp=sharing#scrollTo=RMwXjJdVdz5N)
+
 ![Group 79](https://user-images.githubusercontent.com/85460283/216776740-ec5c1bd3-c46b-40f3-83f1-2b3f8a2daad4.png)
 
 
